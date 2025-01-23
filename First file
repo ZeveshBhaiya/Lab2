@@ -1,4 +1,5 @@
 cout<<"My name is:"<<Zarkhan";
+ Second-semester
 cout<<"My name is:"<<static";
 cout<<"My name is:"<<Islamiyat";
 cout<<"My name is:"<<configuration";
@@ -6,3 +7,10 @@ cout<<"My name is:"<<English";
 cout<<"My name is:"<<Object oriented";
 cout<<"My name is:"<<Maths";
 cout<<"My name is:"<<programming";
+cout<<"My name is:"<<09";
+cout<<My subject is:"<<Maths";
+cout<<My subject is:"<<computer";
+cout<<My subject is:"<<English";
+cout<<My subject is:"<<Islamiyat";
+cout<<My subject is:"<<Urdu";
+cout<<My subject is:"<<chemistry";First-Semester
