@@ -1,2 +1,8 @@
 cout<<"My name is:"<<Zarkhan";
 cout<<"My name is:"<<09";
+cout<<My subject is:"<<Maths";
+cout<<My subject is:"<<computer";
+cout<<My subject is:"<<English";
+cout<<My subject is:"<<Islamiyat";
+cout<<My subject is:"<<Urdu";
+cout<<My subject is:"<<chemistry";
